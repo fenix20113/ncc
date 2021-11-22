@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - main
+    - fix-source-map
     tags:
     - '!*'
   pull_request:
