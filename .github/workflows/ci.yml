@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - main
+    - enable-workflow
     tags:
     - '!*'
   pull_request:
